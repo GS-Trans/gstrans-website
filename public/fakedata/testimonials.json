@@ -1,0 +1,48 @@
+[
+	{
+		"id": 1,
+		"authorName": "Rajesh Sharma",
+		"authorDesig": "Sharma Electronics, Khammam",
+		"img": "/images/testimonial/client-1.webp",
+		"img2": "/images/testimonial/h3-test-1.png",
+		"logoImg": "/img/testimonials/logo/1.png",
+		"logoImgLight": "/img/testimonials/logo/1-dark.png",
+		"thumbImg": "/img/testimonials/user/testmonial-7-thumb.jpg",
+		"desc": "GS Trans has transformed our business deliveries. Real-time tracking and reliable service have made our operations so much smoother. Highly recommended!",
+		"desc2": "GS Trans has transformed our business deliveries. Real-time tracking and reliable service have made our operations so much smoother. The app is user-friendly and their customer support is excellent.",
+		"desc3": "Professional, affordable, and always on time. They've become a key contributor to our growth and success.",
+		"desc4": "GS Trans has transformed our business deliveries. Real-time tracking and reliable service have made our operations so much smoother. Highly recommended!",
+		"desc5": "We've been working with GS Trans and they continue to deliver outstanding results. Their team is proactive and responsive."
+	},
+	{
+		"id": 2,
+		"authorName": "Priya Reddy",
+		"authorDesig": "HomeGoods Store, Hyderabad",
+		"img": "/images/testimonial/client-2.webp",
+		"img2": "/images/testimonial/client-2.webp",
+		"logoImg": "/img/testimonials/logo/2.png",
+		"logoImgLight": "/img/testimonials/logo/2-dark.png",
+		"thumbImg": "/img/testimonials/user/h10-test.png",
+		"desc": "Professional, affordable, and always on time. The app is so easy to use and customer support is excellent. We use GS Trans for all our inter-city shipments.",
+		"desc2": "Professional, affordable, and always on time. The app is so easy to use and customer support is excellent. We use GS Trans for all our inter-city shipments. Their service is reliable.",
+		"desc3": "GS Trans has transformed our business deliveries. Real-time tracking and reliable service have made our operations seamless.",
+		"desc4": "Professional, affordable, and always on time. The app is so easy to use and customer support is excellent. We use GS Trans for all our inter-city shipments.",
+		"desc5": "Their expertise and commitment to success make them a trusted partner for our growing business."
+	},
+	{
+		"id": 3,
+		"authorName": "Mohammed Ali",
+		"authorDesig": "Fresh Fruits Wholesale",
+		"img": "/images/testimonial/client-3.webp",
+		"img2": "/images/testimonial/h3-test-3.png",
+		"logoImg": "/img/testimonials/logo/1.png",
+		"logoImgLight": "/img/testimonials/logo/1-dark.png",
+		"thumbImg": "/img/testimonials/user/testmonial-7-thumb.jpg",
+		"desc": "Fast delivery and careful handling. The riders are professional and the pricing is very competitive. GS Trans is our go-to transport partner.",
+		"desc2": "Fast delivery and careful handling. The riders are professional and the pricing is very competitive. GS Trans is our go-to transport partner for all our logistics needs.",
+		"desc3": "Professional, affordable, and always on time. They've become a key contributor to our growth.",
+		"desc4": "Fast delivery and careful handling. The riders are professional and the pricing is very competitive. GS Trans is our go-to transport partner.",
+		"desc5": "Highly reliable and responsive team. They understand our business needs and deliver consistently."
+	}
+]
+

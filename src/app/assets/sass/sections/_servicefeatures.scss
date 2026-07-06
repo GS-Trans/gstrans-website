@@ -1,0 +1,290 @@
+@use "../utilities" as *;
+
+/**----------------------------------------
+START: Service Features CSS
+----------------------------------------*/
+.tj-service-features {
+	background: linear-gradient(135deg, #FFF9E6 0%, #FFF4D6 100%);
+	padding: 80px 0;
+
+	.mb-60 {
+		margin-bottom: 60px;
+	}
+
+	.feature-card {
+		background: #F5F1E8;
+		border: 2px solid #E8C547;
+		border-radius: 12px;
+		padding: 40px 30px;
+		height: 100%;
+		transition: all 0.3s ease;
+		text-align: center;
+		cursor: pointer;
+		position: relative;
+		overflow: hidden;
+
+		&::before {
+			content: '';
+			position: absolute;
+			top: 0;
+			left: -100%;
+			width: 100%;
+			height: 100%;
+			background: linear-gradient(135deg, #D4AF37 0%, #E8C547 100%);
+			opacity: 0;
+			transition: left 0.3s ease;
+			z-index: 0;
+		}
+
+		&:hover {
+			border-color: #D4AF37;
+			transform: translateY(-10px);
+			box-shadow: 0 20px 40px rgba(212, 175, 55, 0.2);
+
+			&::before {
+				left: 0;
+				opacity: 0.1;
+			}
+
+			.feature-icon {
+				background: #D4AF37;
+				color: #ffffff;
+				transform: scale(1.1) rotateY(360deg);
+			}
+
+			.feature-title {
+				color: #a0522d;
+			}
+
+			.feature-description {
+				color: #333;
+			}
+		}
+	}
+
+	.feature-icon {
+		font-size: 48px;
+		color: #D4AF37;
+		background: rgba(212, 175, 55, 0.1);
+		width: 80px;
+		height: 80px;
+		border-radius: 50%;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		margin: 0 auto 20px;
+		transition: all 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+		position: relative;
+		z-index: 1;
+	}
+
+	.feature-content {
+		position: relative;
+		z-index: 1;
+	}
+
+	.feature-title {
+		font-size: 18px;
+		font-weight: 600;
+		color: #333;
+		margin-bottom: 12px;
+		transition: color 0.3s ease;
+	}
+
+	.feature-description {
+		font-size: 14px;
+		color: #666;
+		line-height: 1.6;
+		transition: color 0.3s ease;
+		margin: 0;
+	}
+
+	@media #{$md, $sm, $xs} {
+		padding: 60px 0;
+
+		.mb-60 {
+			margin-bottom: 40px;
+		}
+
+		.feature-card {
+			padding: 30px 20px;
+		}
+
+		.feature-icon {
+			width: 70px;
+			height: 70px;
+			font-size: 40px;
+		}
+
+		.feature-title {
+			font-size: 16px;
+		}
+
+		.feature-description {
+			font-size: 13px;
+		}
+	}
+}
+
+/* !END: Service Features CSS */
+
+/**----------------------------------------
+START: Why Choose Us CSS
+----------------------------------------*/
+.tj-why-choose-us {
+	background: linear-gradient(135deg, #EFF4FF 0%, #E8F1FF 100%);
+	padding: 80px 0;
+
+	.mb-60 {
+		margin-bottom: 60px;
+	}
+
+	.choose-card {
+		background: #ffffff;
+		border-left: 5px solid #D4AF37;
+		border-radius: 12px;
+		padding: 40px 30px;
+		height: 100%;
+		transition: all 0.3s ease;
+		cursor: pointer;
+		position: relative;
+		overflow: hidden;
+		box-shadow: 0 10px 30px rgba(212, 175, 55, 0.1);
+
+		&::before {
+			content: '';
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 4px;
+			background: linear-gradient(90deg, #D4AF37 0%, #1E90FF 50%, #a0522d 100%);
+			transform: scaleX(0);
+			transform-origin: left;
+			transition: transform 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+		}
+
+		&:hover {
+			transform: translateY(-15px) scale(1.02);
+			box-shadow: 0 25px 60px rgba(212, 175, 55, 0.25);
+			border-left-color: #a0522d;
+
+			&::before {
+				transform: scaleX(1);
+			}
+
+			.choose-icon {
+				background: linear-gradient(135deg, #D4AF37 0%, #E8C547 100%);
+				color: #ffffff;
+				transform: scale(1.15) rotate(-10deg);
+				box-shadow: 0 10px 30px rgba(212, 175, 55, 0.3);
+			}
+
+			.choose-title {
+				color: #a0522d;
+			}
+
+			.choose-stats {
+				background: #D4AF37;
+				color: #ffffff;
+				transform: scale(1.05);
+			}
+		}
+	}
+
+	.choose-card-header {
+		display: flex;
+		align-items: flex-start;
+		justify-content: space-between;
+		margin-bottom: 20px;
+	}
+
+	.choose-icon {
+		font-size: 40px;
+		color: #ffffff;
+		background: linear-gradient(135deg, #a0522d 0%, #D4AF37 100%);
+		width: 70px;
+		height: 70px;
+		border-radius: 12px;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		transition: all 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+		flex-shrink: 0;
+		box-shadow: 0 5px 20px rgba(212, 175, 55, 0.2);
+	}
+
+	.choose-stats {
+		background: linear-gradient(135deg, #F5F1E8 0%, #FFF4E6 100%);
+		color: #D4AF37;
+		padding: 10px 18px;
+		border-radius: 25px;
+		font-size: 12px;
+		font-weight: 800;
+		transition: all 0.3s ease;
+		white-space: nowrap;
+		box-shadow: 0 3px 12px rgba(212, 175, 55, 0.15);
+		letter-spacing: 0.5px;
+	}
+
+	.choose-content {
+		position: relative;
+		z-index: 2;
+	}
+
+	.choose-title {
+		font-size: 20px;
+		font-weight: 700;
+		color: #333;
+		margin-bottom: 12px;
+		transition: all 0.3s ease;
+		line-height: 1.4;
+	}
+
+	.choose-description {
+		font-size: 14px;
+		color: #666;
+		line-height: 1.7;
+		margin: 0;
+		transition: color 0.3s ease;
+	}
+
+	.choose-bg-shape {
+		position: absolute;
+		top: -50%;
+		right: -20%;
+		width: 300px;
+		height: 300px;
+		background: radial-gradient(circle, rgba(212, 175, 55, 0.05) 0%, transparent 70%);
+		border-radius: 50%;
+		z-index: 0;
+	}
+
+	@media #{$md, $sm, $xs} {
+		padding: 60px 0;
+
+		.mb-60 {
+			margin-bottom: 40px;
+		}
+
+		.choose-card {
+			padding: 30px 20px;
+		}
+
+		.choose-icon {
+			width: 60px;
+			height: 60px;
+			font-size: 32px;
+		}
+
+		.choose-title {
+			font-size: 18px;
+		}
+
+		.choose-description {
+			font-size: 13px;
+		}
+	}
+}
+
+/* !END: Why Choose Us CSS */

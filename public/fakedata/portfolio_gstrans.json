@@ -1,0 +1,362 @@
+[
+	{
+		"id": 1,
+		"slug": "customer-mobile-app",
+		"title": "Customer Mobile App",
+		"title2": "Platform Overview",
+		"titleLarge": "Seamless booking and tracking for customers on-the-go",
+		"img": "/images/portfolio/portfolio-1.webp",
+		"img2": "/images/portfolio/portfolio-6.webp",
+		"img3": "/images/portfolio/portfolio-2.webp",
+		"img4": "/images/portfolio/portfolio-1.webp",
+		"img5": "/images/portfolio/portfolio-1.webp",
+		"img6": "/images/portfolio/portfolio-1.webp",
+		"img7": "/images/portfolio/portfolio-1.webp",
+		"img8": "/images/portfolio/portfolio-1.webp",
+		"imgLarge": "/images/portfolio/portfolio-1.webp",
+		"detailsImg": "/images/portfolio/portfolio-1.webp",
+		"desc": "User-friendly mobile application enabling customers to book transport services instantly with real-time GPS tracking and multiple payment options.",
+		"shortDesc": "Easy booking with real-time tracking",
+		"desc1": "The GS Trans customer mobile app provides an intuitive interface for booking transport services within seconds. Users can select pickup and drop locations, choose vehicle types, and track their deliveries in real-time with live GPS updates.",
+		"desc2": "Our app features multiple secure payment options including cash, UPI, cards, and digital wallets. Customers receive instant booking confirmations, estimated arrival times, and can communicate directly with their assigned riders for a seamless experience.",
+		"category": "Mobile App",
+		"featured": true,
+		"featuredDesc": "A powerful mobile platform that puts transport services at your fingertips with instant booking, live tracking, and secure payments.",
+		"featuredImg": "/images/portfolio/portfolio-1.webp",
+		"employee": {
+			"name": "GS Trans Tech Team",
+			"desig": "Mobile Development",
+			"img": "/images/portfolio/portfolio-1.webp"
+		},
+		"tags": ["Mobile App", "Customer Platform"],
+		"dataFilter": "mobile customer",
+		"statusItem": [
+			{
+				"title": "Category",
+				"desc": "Mobile Application"
+			},
+			{
+				"title": "Platform",
+				"desc": "iOS & Android"
+			},
+			{
+				"title": "Launch Date",
+				"desc": "January 2026"
+			},
+			{
+				"title": "Developer",
+				"desc": "Gamma Smart Trans Pvt Ltd"
+			}
+		],
+		"descItems": [
+			{
+				"title": "Key Features",
+				"desc": "The customer app includes instant booking, real-time GPS tracking, multiple vehicle options, secure payment integration, booking history, fare estimation, and 24/7 customer support. Users can rate their experience and provide feedback after each delivery."
+			},
+			{
+				"title": "User Experience",
+				"desc": "Designed with simplicity in mind, the app offers a clean interface with minimal steps required to complete a booking. Push notifications keep users informed at every stage, from rider assignment to successful delivery completion."
+			}
+		]
+	},
+	{
+		"id": 2,
+		"slug": "rider-network-platform",
+		"title": "Rider Network Platform",
+		"title2": "Platform Overview",
+		"titleLarge": "Verified and trained riders ensuring safe and reliable deliveries",
+		"img": "/images/portfolio/portfolio-2.webp",
+		"img2": "/images/portfolio/portfolio-1.webp",
+		"img3": "/images/portfolio/portfolio-3.webp",
+		"img4": "/images/portfolio/portfolio-2.webp",
+		"img5": "/images/portfolio/portfolio-2.webp",
+		"img6": "/images/portfolio/portfolio-2.webp",
+		"img7": "/images/portfolio/portfolio-2.webp",
+		"img8": "/images/portfolio/portfolio-2.webp",
+		"imgLarge": "/images/portfolio/portfolio-2.webp",
+		"detailsImg": "/images/portfolio/portfolio-2.webp",
+		"desc": "Comprehensive rider management system with background verification, training programs, and performance tracking to ensure quality service delivery.",
+		"shortDesc": "Verified riders for safe deliveries",
+		"desc1": "Our rider network comprises thoroughly vetted and trained professionals who undergo comprehensive background checks and safety training. Each rider is equipped with the necessary tools and knowledge to handle various types of cargo safely and efficiently.",
+		"desc2": "The rider platform includes earnings tracking, route optimization, delivery management, and instant payment settlements. Riders receive real-time job notifications and can accept bookings based on their availability and location.",
+		"category": "Rider Platform",
+		"featured": true,
+		"featuredDesc": "A robust network of verified riders powered by smart technology for efficient pickups and deliveries across all service areas.",
+		"featuredImg": "/images/portfolio/portfolio-2.webp",
+		"employee": {
+			"name": "GS Trans Operations",
+			"desig": "Fleet Management",
+			"img": "/images/portfolio/portfolio-2.webp"
+		},
+		"tags": ["Rider Network", "Logistics"],
+		"dataFilter": "rider logistics",
+		"statusItem": [
+			{
+				"title": "Category",
+				"desc": "Platform System"
+			},
+			{
+				"title": "Network Size",
+				"desc": "500+ Riders"
+			},
+			{
+				"title": "Coverage",
+				"desc": "50+ Cities"
+			},
+			{
+				"title": "Organization",
+				"desc": "GS Trans"
+			}
+		],
+		"descItems": [
+			{
+				"title": "Rider Verification",
+				"desc": "Every rider undergoes a rigorous verification process including document verification, background checks, vehicle inspection, and safety training before being onboarded to the platform."
+			},
+			{
+				"title": "Performance Tracking",
+				"desc": "Our system continuously monitors rider performance through customer ratings, on-time delivery metrics, and professional conduct. This ensures consistent quality across our entire network."
+			}
+		]
+	},
+	{
+		"id": 3,
+		"slug": "business-dashboard",
+		"title": "Business Dashboard",
+		"title2": "Platform Overview",
+		"titleLarge": "Comprehensive business management with analytics and API integration",
+		"img": "/images/portfolio/portfolio-3.webp",
+		"img2": "/images/portfolio/portfolio-2.webp",
+		"img3": "/images/portfolio/portfolio-4.webp",
+		"img4": "/images/portfolio/portfolio-3.webp",
+		"img5": "/images/portfolio/portfolio-3.webp",
+		"img6": "/images/portfolio/portfolio-3.webp",
+		"img7": "/images/portfolio/portfolio-3.webp",
+		"img8": "/images/portfolio/portfolio-3.webp",
+		"imgLarge": "/images/portfolio/portfolio-3.webp",
+		"detailsImg": "/images/portfolio/portfolio-3.webp",
+		"desc": "Enterprise-grade dashboard for businesses to manage bulk orders, track deliveries, analyze performance metrics, and integrate with existing systems via API.",
+		"shortDesc": "Business management and analytics",
+		"desc1": "The GS Trans Business Dashboard provides companies with complete control over their logistics operations. Manage hundreds of orders simultaneously, access detailed analytics, generate custom reports, and monitor delivery performance in real-time.",
+		"desc2": "Our platform offers powerful API integration capabilities allowing businesses to connect their existing ERP systems, e-commerce platforms, and inventory management tools directly with GS Trans for automated order processing and tracking.",
+		"category": "Business Platform",
+		"featured": true,
+		"featuredDesc": "Enterprise logistics management solution with powerful analytics, reporting, and seamless API integration for business efficiency.",
+		"featuredImg": "/images/portfolio/portfolio-3.webp",
+		"employee": {
+			"name": "GS Trans Enterprise",
+			"desig": "Business Solutions",
+			"img": "/images/portfolio/portfolio-3.webp"
+		},
+		"tags": ["Business", "Analytics", "API"],
+		"dataFilter": "business enterprise",
+		"statusItem": [
+			{
+				"title": "Category",
+				"desc": "Web Dashboard"
+			},
+			{
+				"title": "Users",
+				"desc": "2000+ Businesses"
+			},
+			{
+				"title": "API Access",
+				"desc": "RESTful API"
+			},
+			{
+				"title": "Provider",
+				"desc": "GS Trans"
+			}
+		],
+		"descItems": [
+			{
+				"title": "Dashboard Features",
+				"desc": "Access comprehensive analytics including delivery success rates, average delivery times, cost analysis, rider performance, and customer satisfaction metrics. Generate custom reports for specific date ranges and export data in multiple formats."
+			},
+			{
+				"title": "API Integration",
+				"desc": "Our RESTful API provides complete access to booking, tracking, and management functions. Includes detailed documentation, sandbox environment for testing, webhook support for real-time updates, and dedicated technical support for enterprise clients."
+			}
+		]
+	},
+	{
+		"id": 4,
+		"slug": "gps-tracking-system",
+		"title": "GPS Tracking System",
+		"title2": "Platform Overview",
+		"titleLarge": "Real-time tracking with route optimization and ETA updates",
+		"img": "/images/portfolio/portfolio-4.webp",
+		"img2": "/images/portfolio/portfolio-3.webp",
+		"img3": "/images/portfolio/portfolio-5.webp",
+		"img4": "/images/portfolio/portfolio-4.webp",
+		"img5": "/images/portfolio/portfolio-4.webp",
+		"img6": "/images/portfolio/portfolio-4.webp",
+		"img7": "/images/portfolio/portfolio-4.webp",
+		"img8": "/images/portfolio/portfolio-4.webp",
+		"imgLarge": "/images/portfolio/portfolio-4.webp",
+		"detailsImg": "/images/portfolio/portfolio-4.webp",
+		"desc": "Advanced GPS tracking technology providing live location updates, intelligent route optimization, and accurate delivery time estimations for complete transparency.",
+		"shortDesc": "Live tracking and route optimization",
+		"desc1": "Our state-of-the-art GPS tracking system provides real-time visibility into every delivery. Customers and businesses can track their shipments live on the map with precise location updates every few seconds for complete peace of mind.",
+		"desc2": "The system uses intelligent algorithms to optimize delivery routes based on real-time traffic conditions, distance calculations, and delivery priorities. This ensures the fastest possible delivery times while minimizing costs.",
+		"category": "Technology",
+		"featured": true,
+		"featuredDesc": "Advanced GPS technology powering real-time tracking, route optimization, and accurate ETA predictions for all deliveries.",
+		"featuredImg": "/images/portfolio/portfolio-4.webp",
+		"employee": {
+			"name": "GS Trans Technology",
+			"desig": "GPS Solutions",
+			"img": "/images/portfolio/portfolio-4.webp"
+		},
+		"tags": ["GPS", "Tracking", "Technology"],
+		"dataFilter": "technology tracking",
+		"statusItem": [
+			{
+				"title": "Category",
+				"desc": "GPS Technology"
+			},
+			{
+				"title": "Accuracy",
+				"desc": "±5 meters"
+			},
+			{
+				"title": "Update Frequency",
+				"desc": "Every 5 seconds"
+			},
+			{
+				"title": "Coverage",
+				"desc": "Pan-India"
+			}
+		],
+		"descItems": [
+			{
+				"title": "Real-Time Tracking",
+				"desc": "GPS updates are transmitted every 5 seconds providing highly accurate real-time location data. The system works seamlessly across different network conditions and provides offline tracking capabilities in areas with limited connectivity."
+			},
+			{
+				"title": "Route Optimization",
+				"desc": "Our intelligent routing engine analyzes multiple factors including traffic patterns, road conditions, delivery priorities, and vehicle capacity to generate the most efficient routes. This reduces delivery times by up to 30% and significantly lowers operational costs."
+			}
+		]
+	},
+	{
+		"id": 5,
+		"slug": "payment-gateway-integration",
+		"title": "Payment Gateway Integration",
+		"title2": "Platform Overview",
+		"titleLarge": "Secure and seamless payment processing with multiple options",
+		"img": "/images/portfolio/portfolio-5.webp",
+		"img2": "/images/portfolio/portfolio-4.webp",
+		"img3": "/images/portfolio/portfolio-6.webp",
+		"img4": "/images/portfolio/portfolio-5.webp",
+		"img5": "/images/portfolio/portfolio-5.webp",
+		"img6": "/images/portfolio/portfolio-5.webp",
+		"img7": "/images/portfolio/portfolio-5.webp",
+		"img8": "/images/portfolio/portfolio-5.webp",
+		"imgLarge": "/images/portfolio/portfolio-5.webp",
+		"detailsImg": "/images/portfolio/portfolio-5.webp",
+		"desc": "Integrated payment system supporting multiple payment methods including cash, UPI, cards, and wallets with instant settlements and transaction tracking.",
+		"shortDesc": "Multiple secure payment options",
+		"desc1": "GS Trans offers a comprehensive payment infrastructure supporting all major payment methods. Customers can choose from cash on delivery, UPI payments, credit/debit cards, and popular digital wallets for maximum convenience.",
+		"desc2": "Our payment system is secured with bank-grade encryption and complies with all regulatory standards. Riders receive instant payment settlements, and businesses benefit from automated reconciliation and detailed payment reports.",
+		"category": "Payment System",
+		"featured": false,
+		"featuredDesc": "Secure payment infrastructure with multiple payment options and instant settlements.",
+		"featuredImg": "/images/portfolio/portfolio-5.webp",
+		"employee": {
+			"name": "GS Trans FinTech",
+			"desig": "Payment Solutions",
+			"img": "/images/portfolio/portfolio-5.webp"
+		},
+		"tags": ["Payments", "Security", "FinTech"],
+		"dataFilter": "payment fintech",
+		"statusItem": [
+			{
+				"title": "Category",
+				"desc": "Payment System"
+			},
+			{
+				"title": "Security",
+				"desc": "PCI-DSS Compliant"
+			},
+			{
+				"title": "Settlement",
+				"desc": "Instant"
+			},
+			{
+				"title": "Methods",
+				"desc": "Multiple Options"
+			}
+		],
+		"descItems": [
+			{
+				"title": "Payment Security",
+				"desc": "All transactions are protected with end-to-end encryption, tokenization, and multi-factor authentication. Our system is PCI-DSS compliant and undergoes regular security audits to ensure the highest level of protection for customer data."
+			},
+			{
+				"title": "Settlement Process",
+				"desc": "Riders receive instant payment settlements after successful deliveries. Businesses benefit from automated invoice generation, payment reconciliation, and detailed transaction history for accounting purposes."
+			}
+		]
+	},
+	{
+		"id": 6,
+		"slug": "customer-support-system",
+		"title": "Customer Support System",
+		"title2": "Platform Overview",
+		"titleLarge": "24/7 multi-channel support with AI-powered assistance",
+		"img": "/images/portfolio/portfolio-6.webp",
+		"img2": "/images/portfolio/portfolio-5.webp",
+		"img3": "/images/portfolio/portfolio-1.webp",
+		"img4": "/images/portfolio/portfolio-6.webp",
+		"img5": "/images/portfolio/portfolio-6.webp",
+		"img6": "/images/portfolio/portfolio-6.webp",
+		"img7": "/images/portfolio/portfolio-6.webp",
+		"img8": "/images/portfolio/portfolio-6.webp",
+		"imgLarge": "/images/portfolio/portfolio-6.webp",
+		"detailsImg": "/images/portfolio/portfolio-6.webp",
+		"desc": "Comprehensive customer support infrastructure with in-app chat, phone support, email assistance, and AI-powered chatbot for instant query resolution.",
+		"shortDesc": "24/7 customer support and assistance",
+		"desc1": "GS Trans provides round-the-clock customer support through multiple channels including in-app chat, phone support, email, and WhatsApp. Our dedicated support team is trained to handle queries, resolve issues, and ensure customer satisfaction.",
+		"desc2": "Our AI-powered chatbot handles common queries instantly, while complex issues are seamlessly escalated to human agents. The system maintains complete ticket tracking and ensures timely resolution of all customer concerns.",
+		"category": "Support System",
+		"featured": false,
+		"featuredDesc": "Comprehensive 24/7 customer support with AI assistance and human expertise for query resolution.",
+		"featuredImg": "/images/portfolio/portfolio-6.webp",
+		"employee": {
+			"name": "GS Trans Support",
+			"desig": "Customer Success",
+			"img": "/images/portfolio/portfolio-6.webp"
+		},
+		"tags": ["Support", "AI", "Customer Service"],
+		"dataFilter": "support customer",
+		"statusItem": [
+			{
+				"title": "Category",
+				"desc": "Customer Support"
+			},
+			{
+				"title": "Availability",
+				"desc": "24/7/365"
+			},
+			{
+				"title": "Response Time",
+				"desc": "Under 2 minutes"
+			},
+			{
+				"title": "Channels",
+				"desc": "Multi-Channel"
+			}
+		],
+		"descItems": [
+			{
+				"title": "Support Channels",
+				"desc": "Customers can reach us through multiple channels including in-app chat, phone support, email, and WhatsApp. Our support team responds to queries within 2 minutes on average, ensuring quick resolution of concerns."
+			},
+			{
+				"title": "AI Assistance",
+				"desc": "Our intelligent chatbot handles common queries about bookings, tracking, payments, and account management instantly. For complex issues, the system seamlessly transfers conversations to human agents with complete context for efficient resolution."
+			}
+		]
+	}
+]

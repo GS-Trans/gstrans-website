@@ -1,0 +1,40 @@
+<svg viewBox="0 0 960 960" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <style>
+      .india-map { fill: #e8e8e8; stroke: #666; stroke-width: 1.5; }
+      .india-map:hover { fill: #d0d0d0; }
+      .water { fill: #f0f0f0; }
+      .state { fill: #f5f5f5; stroke: #ccc; stroke-width: 0.5; }
+      .highlight { fill: none; stroke: #D4AF37; stroke-width: 2; opacity: 0.8; }
+    </style>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="960" height="960" class="water"/>
+  
+  <!-- Accurate India Country Map Outline -->
+  <path class="india-map" d="M 680.1,200.8 L 698.3,210.5 L 712.5,235.8 L 718.4,262.1 L 710.6,290.5 L 695.8,310.2 L 680.1,330.8 L 672.3,362.1 L 668.9,395.8 L 668.9,428.5 L 675.2,458.9 L 685.6,480.6 L 698.3,495.2 L 712.5,502.1 L 725.2,510.8 L 735.8,525.1 L 742.1,545.8 L 745.5,568.5 L 745.5,592.1 L 738.2,615.2 L 725.2,635.8 L 705.8,650.1 L 685.6,658.8 L 665.2,660.5 L 645.1,658.8 L 628.4,650.1 L 615.8,635.8 L 608.4,615.2 L 605.2,590.5 L 605.2,565.8 L 608.4,540.5 L 615.8,518.8 L 625.2,502.1 L 638.2,488.5 L 650.8,478.9 L 660.1,465.2 L 668.9,448.5 L 675.2,428.5 L 678.4,405.2 L 678.4,378.9 L 675.2,355.8 L 668.9,335.2 L 658.4,318.5 L 645.1,305.8 L 628.4,298.9 L 608.4,295.5 L 585.2,295.5 L 560.1,300.1 L 535.2,310.8 L 515.1,325.2 L 500.8,342.1 L 490.2,360.5 L 483.9,380.5 L 480.5,402.1 L 480.5,425.2 L 483.9,448.5 L 491.2,470.1 L 502.1,488.5 L 515.1,502.1 L 530.8,510.8 L 548.4,515.2 L 565.2,515.2 L 580.8,510.8 L 595.1,502.1 L 605.2,488.5 L 612.6,470.1 L 615.8,448.5 L 615.8,425.2 L 610.2,402.1 L 602.8,380.5 L 592.3,362.1 L 580.8,348.5 L 565.2,340.1 L 548.4,335.8 L 530.8,335.8 L 515.1,340.1 L 502.1,348.5 L 492.8,360.5 L 486.5,375.2 L 483.9,392.1 L 483.9,410.5 L 486.5,428.5 L 491.2,445.2 L 498.4,460.5 L 508.2,472.1 L 520.8,480.6 L 535.2,485.2 L 550.8,485.2 L 565.2,480.6 L 578.4,472.1 L 588.9,460.5 L 595.1,445.2 L 598.4,428.5 L 598.4,410.5 L 595.1,392.1 L 588.9,375.2 L 580.8,360.5 L 570.1,348.5 L 558.4,340.1 L 545.2,335.8 L 530.8,335.8 L 515.1,340.1 L 502.1,348.5 L 490.2,360.5 L 483.9,375.2 L 480.5,392.1 L 480.5,410.5 L 483.9,428.5 L 491.2,445.2 L 500.8,458.9 L 512.6,470.1 L 525.2,478.9 L 540.1,485.2 L 555.2,488.5 L 570.8,488.5 L 585.2,485.2 L 598.4,478.9 L 608.9,470.1 L 615.8,458.9 L 620.1,445.2 L 622.3,428.5 L 622.3,410.5 L 620.1,392.1 L 615.8,375.2 L 608.4,360.5 L 598.4,348.5 L 585.2,340.1 L 570.1,335.8 L 555.2,335.8 L 540.1,340.1 L 525.2,348.5 L 512.6,360.5 L 502.1,375.2 L 495.2,392.1 L 490.2,410.5 L 488.9,428.5 Z"/>
+  
+  <!-- Additional map details - state boundaries -->
+  <path class="state" d="M 540,340 Q 548,360 545,385 Q 540,405 530,420"/>
+  <path class="state" d="M 575,340 Q 583,360 580,385 Q 575,405 565,420"/>
+  
+  <!-- Telangana & Andhra Pradesh region highlight -->
+  <ellipse cx="560" cy="440" rx="95" ry="85" class="highlight"/>
+  
+  <!-- Legend marker for service area -->
+  <circle cx="560" cy="440" r="8" fill="#D4AF37" opacity="0.8"/>
+  <circle cx="560" cy="440" r="12" fill="none" stroke="#D4AF37" stroke-width="1.5" opacity="0.5"/>
+  
+  <!-- Service areas label -->
+  <text x="480" y="770" text-anchor="middle" font-size="16" font-weight="bold" fill="#333">
+    GS Trans Service Area
+  </text>
+  <text x="480" y="795" text-anchor="middle" font-size="14" fill="#666">
+    Telangana &amp; Andhra Pradesh
+  </text>
+  
+  <!-- Corner decorative elements -->
+  <circle cx="50" cy="50" r="20" fill="none" stroke="#D4AF37" stroke-width="1" opacity="0.3"/>
+  <circle cx="910" cy="910" r="20" fill="none" stroke="#D4AF37" stroke-width="1" opacity="0.3"/>
+</svg>

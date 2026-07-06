@@ -1,0 +1,315 @@
+[
+	{
+		"id": 1,
+		"slug": "ai-ml-engineer",
+		"title": "AI/ML Engineer",
+		"iconName": "tji-strategy",
+		"price": "As per policy",
+		"duration": "month",
+		"location": "Khammam, Telangana",
+		"category": "Full-time / Hybrid",
+		"need": "Open",
+		"description": "Join our AI team to build intelligent logistics solutions using machine learning algorithms. Work on route optimization, demand forecasting, and predictive analytics to enhance delivery efficiency.",
+		"responsibilities": [
+			"Design and implement ML models for route optimization and demand prediction",
+			"Develop AI-powered chatbots for customer support automation",
+			"Build computer vision solutions for package verification and tracking",
+			"Optimize existing ML pipelines for better performance and scalability",
+			"Collaborate with data engineers to build robust data processing systems"
+		],
+		"requirements": [
+			"3+ years experience in AI/ML development",
+			"Strong proficiency in Python, TensorFlow, PyTorch",
+			"Experience with NLP, Computer Vision, or Reinforcement Learning",
+			"Knowledge of cloud platforms (AWS/Azure/GCP)",
+			"Bachelor's/Master's in Computer Science or related field"
+		]
+	},
+	{
+		"id": 2,
+		"slug": "android-developer",
+		"title": "Android Developer",
+		"iconName": "tji-manage",
+		"price": "As per policy",
+		"duration": "month",
+		"location": "Khammam, Telangana",
+		"category": "Full-time / Hybrid",
+		"need": "Open",
+		"description": "Build and enhance our customer and rider Android applications. Create seamless mobile experiences with real-time GPS tracking, payment integration, and intuitive UI/UX.",
+		"responsibilities": [
+			"Develop new features for customer and rider Android apps",
+			"Implement real-time GPS tracking and push notifications",
+			"Integrate payment gateways and third-party APIs",
+			"Optimize app performance and reduce battery consumption",
+			"Write clean, maintainable code with comprehensive testing"
+		],
+		"requirements": [
+			"2+ years of Android development experience",
+			"Strong knowledge of Kotlin and Java",
+			"Experience with Android SDK, Jetpack, and MVVM architecture",
+			"Familiarity with RESTful APIs and third-party libraries",
+			"Published apps on Google Play Store preferred"
+		]
+	},
+	{
+		"id": 3,
+		"slug": "ios-developer",
+		"title": "iOS Developer",
+		"iconName": "tji-process-1",
+		"price": "As per policy",
+		"duration": "month",
+		"location": "Khammam, Telangana",
+		"category": "Full-time / Hybrid",
+		"need": "Open",
+		"description": "Craft exceptional iOS experiences for our logistics platform. Develop feature-rich mobile applications with real-time tracking, secure payments, and smooth animations.",
+		"responsibilities": [
+			"Build and maintain iOS applications for customers and riders",
+			"Implement CoreLocation for precise GPS tracking",
+			"Develop payment integrations using Apple Pay and other gateways",
+			"Create responsive and animated UI using SwiftUI",
+			"Ensure app security and data protection compliance"
+		],
+		"requirements": [
+			"2+ years of iOS development experience",
+			"Proficiency in Swift and SwiftUI",
+			"Experience with iOS SDK, UIKit, and Core frameworks",
+			"Knowledge of RESTful APIs and JSON parsing",
+			"Published apps on Apple App Store preferred"
+		]
+	},
+	{
+		"id": 4,
+		"slug": "data-scientist",
+		"title": "Data Scientist",
+		"iconName": "tji-operations",
+		"price": "As per policy",
+		"duration": "month",
+		"location": "Khammam, Telangana",
+		"category": "Full-time / Hybrid",
+		"need": "Open",
+		"description": "Unlock insights from massive logistics data. Build predictive models, perform statistical analysis, and drive data-driven decision making across the organization.",
+		"responsibilities": [
+			"Analyze delivery patterns and customer behavior data",
+			"Build predictive models for demand forecasting and pricing optimization",
+			"Develop dashboards and visualizations for business insights",
+			"Conduct A/B testing and statistical analysis",
+			"Collaborate with product and engineering teams on data-driven features"
+		],
+		"requirements": [
+			"3+ years of experience in data science",
+			"Strong proficiency in Python, R, SQL",
+			"Experience with scikit-learn, pandas, numpy",
+			"Knowledge of statistical modeling and hypothesis testing",
+			"Master's/PhD in Statistics, Mathematics, or related field preferred"
+		]
+	},
+	{
+		"id": 5,
+		"slug": "data-engineer",
+		"title": "Data Engineer",
+		"iconName": "tji-organize",
+		"price": "As per policy",
+		"duration": "month",
+		"location": "Khammam, Telangana",
+		"category": "Full-time / Hybrid",
+		"need": "Open",
+		"description": "Design and build scalable data pipelines processing millions of events daily. Create robust ETL systems to power our analytics and ML infrastructure.",
+		"responsibilities": [
+			"Build and maintain data pipelines for real-time and batch processing",
+			"Design data warehouse schemas and optimize queries",
+			"Implement data quality checks and monitoring systems",
+			"Work with streaming data using Kafka or similar technologies",
+			"Optimize database performance and data storage costs"
+		],
+		"requirements": [
+			"3+ years of experience in data engineering",
+			"Strong SQL and database design skills",
+			"Experience with Python, Spark, Airflow",
+			"Knowledge of cloud data services (AWS/Azure/GCP)",
+			"Familiarity with data warehousing concepts"
+		]
+	},
+	{
+		"id": 6,
+		"slug": "full-stack-developer",
+		"title": "Full Stack Developer",
+		"iconName": "tji-performance",
+		"price": "As per policy",
+		"duration": "month",
+		"location": "Khammam, Telangana",
+		"category": "Full-time / Hybrid",
+		"need": "Open",
+		"description": "Own features end-to-end from frontend to backend. Build responsive web applications, RESTful APIs, and scalable microservices for our logistics platform.",
+		"responsibilities": [
+			"Develop responsive web applications using React/Next.js",
+			"Build RESTful APIs and microservices using Node.js/Python",
+			"Design and implement database schemas",
+			"Integrate third-party APIs and payment gateways",
+			"Write automated tests and ensure code quality"
+		],
+		"requirements": [
+			"3+ years of full-stack development experience",
+			"Proficiency in JavaScript/TypeScript, React, Node.js",
+			"Experience with databases (PostgreSQL, MongoDB)",
+			"Knowledge of Git, Docker, and CI/CD pipelines",
+			"Strong problem-solving and communication skills"
+		]
+	},
+	{
+		"id": 7,
+		"slug": "devops-engineer",
+		"title": "DevOps Engineer",
+		"iconName": "tji-manage",
+		"price": "As per policy",
+		"duration": "month",
+		"location": "Khammam, Telangana",
+		"category": "Full-time / Remote",
+		"need": "Open",
+		"description": "Build and maintain cloud infrastructure supporting millions of deliveries. Automate deployments, ensure system reliability, and optimize infrastructure costs.",
+		"responsibilities": [
+			"Manage cloud infrastructure on AWS/Azure/GCP",
+			"Implement CI/CD pipelines using Jenkins/GitHub Actions",
+			"Monitor system performance and troubleshoot issues",
+			"Automate infrastructure provisioning with Terraform/CloudFormation",
+			"Ensure security compliance and implement best practices"
+		],
+		"requirements": [
+			"3+ years of DevOps experience",
+			"Strong knowledge of AWS/Azure/GCP services",
+			"Experience with Docker, Kubernetes, Terraform",
+			"Proficiency in scripting (Bash, Python)",
+			"Understanding of networking, security, and monitoring tools"
+		]
+	},
+	{
+		"id": 8,
+		"slug": "marketing-executive",
+		"title": "Marketing Executive",
+		"iconName": "tji-process-1",
+		"price": "As per policy",
+		"duration": "month",
+		"location": "Khammam, Telangana",
+		"category": "Full-time / On-site",
+		"need": "Open",
+		"description": "Drive growth through innovative marketing strategies. Manage digital campaigns, partnerships, and brand awareness initiatives to expand our customer base.",
+		"responsibilities": [
+			"Plan and execute digital marketing campaigns across channels",
+			"Manage social media presence and content strategy",
+			"Coordinate with design team for marketing collateral",
+			"Analyze campaign performance and optimize ROI",
+			"Build partnerships with businesses and e-commerce platforms"
+		],
+		"requirements": [
+			"2+ years of marketing experience",
+			"Knowledge of digital marketing tools and analytics",
+			"Strong communication and presentation skills",
+			"Experience with social media marketing",
+			"Bachelor's in Marketing or related field"
+		]
+	},
+	{
+		"id": 9,
+		"slug": "product-manager-logistics-tech",
+		"title": "Product Manager (Logistics Tech)",
+		"iconName": "tji-strategy",
+		"price": "As per policy",
+		"duration": "month",
+		"location": "Khammam, Telangana",
+		"category": "Full-time / Hybrid",
+		"need": "Open",
+		"description": "Lead product strategy and roadmap for our logistics platform. Work cross-functionally with engineering, design, and operations to build products that customers love.",
+		"responsibilities": [
+			"Define product vision, strategy, and roadmap",
+			"Gather requirements from stakeholders and users",
+			"Write detailed product specifications and user stories",
+			"Prioritize features and manage product backlog",
+			"Analyze metrics and iterate based on user feedback"
+		],
+		"requirements": [
+			"3+ years of product management experience",
+			"Strong understanding of logistics or tech products",
+			"Excellent communication and stakeholder management skills",
+			"Data-driven approach to decision making",
+			"MBA or Bachelor's in Engineering/Business preferred"
+		]
+	},
+	{
+		"id": 10,
+		"slug": "ui-ux-designer",
+		"title": "UI/UX Designer",
+		"iconName": "tji-organize",
+		"price": "As per policy",
+		"duration": "month",
+		"location": "Khammam, Telangana",
+		"category": "Full-time / Hybrid",
+		"need": "Open",
+		"description": "Design delightful user experiences for our mobile and web applications. Create intuitive interfaces that simplify complex logistics workflows.",
+		"responsibilities": [
+			"Design user interfaces for mobile and web applications",
+			"Create wireframes, prototypes, and high-fidelity mockups",
+			"Conduct user research and usability testing",
+			"Maintain design system and component library",
+			"Collaborate with developers to ensure design accuracy"
+		],
+		"requirements": [
+			"2+ years of UI/UX design experience",
+			"Proficiency in Figma, Adobe XD, or Sketch",
+			"Strong portfolio showcasing mobile and web designs",
+			"Understanding of design principles and accessibility",
+			"Experience with design systems and prototyping"
+		]
+	},
+	{
+		"id": 11,
+		"slug": "backend-developer-nodejs-python",
+		"title": "Backend Developer (Node.js/Python)",
+		"iconName": "tji-operations",
+		"price": "As per policy",
+		"duration": "month",
+		"location": "Khammam, Telangana",
+		"category": "Full-time / Remote",
+		"need": "Open",
+		"description": "Build robust backend systems powering our logistics platform. Design APIs, implement business logic, and ensure system scalability and reliability.",
+		"responsibilities": [
+			"Develop RESTful APIs and GraphQL services",
+			"Design and optimize database schemas",
+			"Implement authentication and authorization systems",
+			"Build microservices and event-driven architectures",
+			"Write unit tests and ensure code quality"
+		],
+		"requirements": [
+			"3+ years of backend development experience",
+			"Strong proficiency in Node.js or Python",
+			"Experience with Express, FastAPI, or Django",
+			"Knowledge of databases (PostgreSQL, MongoDB, Redis)",
+			"Understanding of system design and architecture"
+		]
+	},
+	{
+		"id": 12,
+		"slug": "quality-assurance-engineer",
+		"title": "Quality Assurance Engineer",
+		"iconName": "tji-performance",
+		"price": "As per policy",
+		"duration": "month",
+		"location": "Khammam, Telangana",
+		"category": "Full-time / Hybrid",
+		"need": "Open",
+		"description": "Ensure product quality through comprehensive testing strategies. Design test cases, automate testing, and work closely with developers to deliver bug-free software.",
+		"responsibilities": [
+			"Design and execute test plans and test cases",
+			"Perform functional, regression, and performance testing",
+			"Automate testing using Selenium, Cypress, or similar tools",
+			"Identify, document, and track bugs",
+			"Collaborate with development team on quality improvements"
+		],
+		"requirements": [
+			"2+ years of QA experience",
+			"Knowledge of testing methodologies and best practices",
+			"Experience with test automation tools",
+			"Familiarity with API testing (Postman, REST Assured)",
+			"Strong analytical and problem-solving skills"
+		]
+	}
+]
+
