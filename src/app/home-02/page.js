@@ -14,30 +14,31 @@ import BackToTop from "@/components/shared/others/BackToTop";
 import ClientWrapper from "@/components/shared/wrappers/ClientWrapper";
 
 export default function Home2() {
-	return (
-		<div>
-			<BackToTop />
-			<Header headerType={2} />
-			<Header headerType={2} isStickyHeader={true} />
-			<div id="smooth-wrapper">
-				<div id="smooth-content">
-					<main>
-						<Hero2 />
-						<Brands2 />
-						<About2 />
-						<Services2 />
-						<Portfolios2 />
-						<Process />
-						<Testimonials2 />
-						<Team1 />
-						<PricingPlan />
-						<Blogs2 />
-					</main>
-					<Footer2 />
-				</div>
-			</div>
+  return (
+    <div>
+      <BackToTop />
+      <Header headerType={2} />
+      <Header headerType={2} isStickyHeader={true} />
+      <div id="smooth-wrapper">
+        <div id="smooth-content">
+          <main>
+            <Hero2 />
+            <Brands2 />
+            <About2 />
+            <Services2 />
+            <Portfolios2 />
+            <Process />
+            <Testimonials2 />
+            <Team1 />
+            <PricingPlan />
+            <Blogs2 />
+            <b> GSTRANS</b>
+          </main>
+          <Footer2 />
+        </div>
+      </div>
 
-			<ClientWrapper />
-		</div>
-	);
+      <ClientWrapper />
+    </div>
+  );
 }
