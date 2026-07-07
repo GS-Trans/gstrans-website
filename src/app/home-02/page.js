@@ -32,7 +32,7 @@ export default function Home2() {
             <Team1 />
             <PricingPlan />
             <Blogs2 />
-            <b> GSTRANS</b>
+            <Blogs2 />
           </main>
           <Footer2 />
         </div>
